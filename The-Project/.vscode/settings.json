@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\mingw32-c++.exe",
+    "editor.multiCursorModifier": "ctrlCmd"
+}

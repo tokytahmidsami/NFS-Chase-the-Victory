@@ -1,0 +1,5 @@
+Sami2 3600
+Sami3 1530
+Diol 820
+MUMU 670
+Sami 630
